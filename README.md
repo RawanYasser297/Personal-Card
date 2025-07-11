@@ -5,7 +5,6 @@ A stylish personal profile card built with HTML and CSS, showcasing frontend dev
 ## 🌟 Features
 
 - **Responsive card layout** optimized for desktop and mobile.
-- **Lights toggle** using a custom switch labeled "Lights".
 - **Animated SVG lighting** path that adds visual flair to the card.
 - **Profile image section** featuring:
   - Name: `Rawan Yasser`
@@ -16,22 +15,6 @@ A stylish personal profile card built with HTML and CSS, showcasing frontend dev
   - GitHub
   - YouTube
   - LinkedIn
-
-## 📁 File Structure
-
-```
-personal-card/
-│
-├── index.html
-├── style.css
-└── images/
-    ├── download (7).jpeg
-    ├── facebook-brands.svg
-    ├── twitter-brands-solid.svg
-    ├── github-brands.svg
-    ├── youtube-brands-solid.svg
-    └── linkedin-brands.svg
-```
 
 
 ## 🚀 How to Run
@@ -55,10 +38,6 @@ open index.html
 
 **Rawan Yasser**  
 Frontend Developer  
-
-## live 
-
-
 ---
 
 Feel free to fork, clone, and build your own creative personal card using this template!

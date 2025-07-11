@@ -5,7 +5,7 @@ A stylish personal profile card built with HTML and CSS, showcasing frontend dev
 ## 🌟 Features
 
 - **Responsive card layout** optimized for desktop and mobile.
-- **Dark/Light mode toggle** using a custom switch labeled "Lights".
+- **Lights toggle** using a custom switch labeled "Lights".
 - **Animated SVG lighting** path that adds visual flair to the card.
 - **Profile image section** featuring:
   - Name: `Rawan Yasser`

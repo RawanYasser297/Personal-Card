@@ -2,6 +2,9 @@
 
 A stylish personal profile card built with HTML and CSS, showcasing frontend development skills in a clean, modern layout. The design includes a night-light toggle switch, animated SVG lights, and contact links for social platforms.
 
+## live at
+https://rawanyasser297.github.io/Personal-Card/
+
 ## 🌟 Features
 
 - **Responsive card layout** optimized for desktop and mobile.
@@ -34,10 +37,11 @@ cd personal-card
 open index.html
 ```
 
-## 🧑‍💻 Author
+## Author
 
 **Rawan Yasser**  
 Frontend Developer  
+
 ---
 
 Feel free to fork, clone, and build your own creative personal card using this template!

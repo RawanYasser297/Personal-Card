@@ -34,8 +34,6 @@ personal-card/
 ```
 
 
-![Preview of Personal Card](./images/download%20(7).jpeg)
-
 ## 🚀 How to Run
 
 1. Clone the repository:
